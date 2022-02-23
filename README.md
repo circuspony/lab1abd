@@ -1,8 +1,12 @@
 # Лабораторная работа 1
+
 Ссылка на Google Colab:
+
 https://drive.google.com/file/d/15zKt-svMefWQeeVGVNERe4aD5qEZ3ho6/view?usp=sharing
-#Контрольные вопросы
-#1. Сколько всего административных округов в Сан-Франциско?
+
+##Контрольные вопросы
+
+##1. Сколько всего административных округов в Сан-Франциско?
 Округов в датасете 10. 'BAYVIEW', 'CENTRAL', 'INGLESIDE', 'MISSION', 'NORTHERN', 'PARK', 'RICHMOND', 'SOUTHERN', 'TARAVAL' и 'TENDERLOIN'.
 #2. В каких административных округах наибольшая преступность? 
 SOUTHERN - 6185 преступлений, MISSION - 4011 преступлений, CENTRAL - 3867 преступлений, NORTHERN - 3205 преступлений, BAYVIEW - 2970 преступлений
