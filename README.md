@@ -23,74 +23,40 @@ LARCENY/THEFT (кража) - 8205 случаев, OTHER OFFENSES (другие �
 Анонимная (обычно небольшая) функция, позволяющая не использовать def и определяющая действия в одном месте кода (например, функция, которую нужно применить ко всем элементам массива в конкретной ситуации). 
 
 ### 5. Какие виды преступлений регистрируются в Сан-Франциско?
+36 видов:
 'LARCENY/THEFT'
-
 'DRUG/NARCOTIC'
-
 'WARRANTS'
-
 'VEHICLE THEFT'
-
 'ROBBERY'
-
 'NON-CRIMINAL'
-
 'TRESPASS'
-
 'VANDALISM'
-
 'ASSAULT'
-
 'FRAUD'
-
 'OTHER OFFENSES'
-
 'FORGERY/COUNTERFEITING' 
-
 'DRUNKENNESS' 
-
 'ARSON'
-
 'DRIVING UNDER THE INFLUENCE' 
-
 'PROSTITUTION' 
-
 'KIDNAPPING' 
-
 'WEAPON LAWS'
-
 'SUSPICIOUS OCC' 
-
 'MISSING PERSON' 
-
 'BURGLARY' 
-
 'DISORDERLY CONDUCT'
-
 'LIQUOR LAWS' 
-
 'FAMILY OFFENSES'
-
 'LOITERING'
-
 'SEX OFFENSES, FORCIBLE'
-
 'SUICIDE' 
-
 'EMBEZZLEMENT' 
-
 'SEX OFFENSES, NON FORCIBLE' 
-
 'STOLEN PROPERTY'
-
 'RUNAWAY' 
-
 'GAMBLING' 
-
 'EXTORTION' 
-
 'PORNOGRAPHY/OBSCENE MAT' 
-
 'BRIBERY'
-
 'BAD CHECKS'
